@@ -1,9 +1,9 @@
-package com.patrones.clase1;
+package com.patrones.clase1.polimorfismo;
 
 import java.util.Arrays;
 import java.util.List;
 
-public class Main {
+public class Polimorfismo {
 
 	public static void main(String[] args) {
 		Empleado vendedorPorComision = new VendedorPorComision("Jorge", 123);
